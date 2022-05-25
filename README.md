@@ -11,10 +11,10 @@ Run the following command to open cypress test Runner.
 npm install 
 ```
 ### Run Tests
+you can select and run tests from cypress tests runner
 ```bash
-node_modules\.bin\cypress to open cypress test runner
+node_modules\.bin\cypress open 
 ```
-you can select and run tests from cypress  tests runner
 
 ### Test Data
 Tests Data are available in Fixture folder and Environment variables available in cypress.json file 
