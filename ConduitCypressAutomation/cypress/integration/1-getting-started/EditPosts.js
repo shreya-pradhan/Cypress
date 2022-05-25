@@ -38,7 +38,7 @@ describe('User Post ',function()
         cy.wait(5000);
         homePage.getGlobalFeedToggle().should('be.visible')
     }),
-    it.only('Verify  delete post ',function()
+    it('Verify  delete post ',function()
     {
 
         const articlePage =new ArticlePage();

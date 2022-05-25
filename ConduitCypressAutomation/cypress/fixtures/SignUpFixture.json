@@ -2,9 +2,9 @@
   "name": "Using fixtures to represent data",
   "email": "shreya19.sp@gmail.com",
   "password" :"Test123$",
-  "InvalidEmail":"shreya19.890@gmail.com",
-  "InvalidPassword":"Teshjdjd",
-  "InvalidUsername":"pradhan123%",
+  "InvalidEmail":"shreya19.880@gmail.com",
+  "InvalidPassword":"Teshjdjkd",
+  "InvalidUsername":"pradhan5123%",
   "errorMessage": "body Could not create user No User with this email id"
 }
 
