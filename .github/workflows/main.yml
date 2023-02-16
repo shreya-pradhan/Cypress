@@ -9,6 +9,9 @@ jobs:
      - name: navigate to test folder
        run: |
           cd ConduitCypressAutomation
+          
+     - name: Setup npm package
+       run: npm init -y && npm install 
  
      - name: Run Cypress Test
        uses: cypress-io/github-action@v4
