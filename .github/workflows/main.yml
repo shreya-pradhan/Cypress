@@ -6,6 +6,7 @@ jobs:
    steps:
      - name: Checkout GitCode
        uses: actions/checkout@v2
+     - name: navigate to test folder
        run: |
           cd ConduitCypressAutomation
  
