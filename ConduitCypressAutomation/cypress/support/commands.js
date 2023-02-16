@@ -1,5 +1,5 @@
 
-import LoginPage from '../integration/1-getting-started/PageObjects/LoginPage'
+import LoginPage from '../support/PageObjects/LoginPage.cy'
 
 // ***********************************************
 // This example commands.js shows you how to
